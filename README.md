@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Hans  
 
 🎓 Estudante de **Engenharia de Software** na Wyden  
-💻 Atualmente estudando **HTML5, CSS3 e JavaScript**  
+💻 Atualmente estudando **HTML5, CSS3, JavaScript, Python e MySQL**  
 🌍 Inglês avançado **C1**  
 📍 Campinas, São Paulo  
 
@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 - Apaixonado por **tecnologia**  
-- Gosto de **leitura romântica**  
+- Autêntico **bookstan** 
 - Frequente na **academia**  
 - Fã de **basquete**  
 
