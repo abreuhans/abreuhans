@@ -8,8 +8,7 @@
 ---
 
 ## 🚀 Sobre mim
-- Apaixonado por **tecnologia**  
-- Autêntico **bookstan** 
+- Apaixonado por **tecnologia**   
 - Frequente na **academia**  
 - Fã de **basquete**  
 
